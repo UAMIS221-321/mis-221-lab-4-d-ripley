@@ -1,0 +1,15 @@
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\bin\Debug\net6.0\mis-221-lab-4-d-ripley.exe
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\bin\Debug\net6.0\mis-221-lab-4-d-ripley.deps.json
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\bin\Debug\net6.0\mis-221-lab-4-d-ripley.runtimeconfig.json
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\bin\Debug\net6.0\mis-221-lab-4-d-ripley.dll
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\bin\Debug\net6.0\mis-221-lab-4-d-ripley.pdb
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.csproj.AssemblyReference.cache
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.AssemblyInfoInputs.cache
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.AssemblyInfo.cs
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.csproj.CoreCompileInputs.cache
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.dll
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\refint\mis-221-lab-4-d-ripley.dll
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.pdb
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\mis-221-lab-4-d-ripley.genruntimeconfig.cache
+C:\Users\dripl\OneDrive\MIS 221\mis-221-lab-4-d-ripley\obj\Debug\net6.0\ref\mis-221-lab-4-d-ripley.dll
